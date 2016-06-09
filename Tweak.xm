@@ -163,8 +163,4 @@ return [bundle load];
 
 %hook UIView
 %property (assign, nonatomic) id delegate;
-%new
-- (void)suckPenisBitch {
-
-}
 %end
